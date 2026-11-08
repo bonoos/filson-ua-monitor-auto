@@ -29,7 +29,7 @@ sources:
       - "инструмент"
 
   - name: Bigl
-    enabled: true
+    enabled: false
     url: "https://bigl.ua/ua/search?search_term=filson"
     domain: "bigl.ua"
     exclude_any:
